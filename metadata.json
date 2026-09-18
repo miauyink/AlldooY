@@ -1,0 +1,6 @@
+{
+  "name": "AlldooY",
+  "description": "人物与打赏运营中心 - 专业级暗色响应式数据管理与历史溯源工作台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
